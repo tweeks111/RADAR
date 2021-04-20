@@ -1,0 +1,1 @@
+from view.analysis.Window import Window
